@@ -1,0 +1,16 @@
+.add-vessel {
+    border: dashed 1px #ddd;
+    text-align: center;
+    padding-top:150px;
+    height: 350px;
+    background-color: #f5f5f5;
+
+}
+
+.vessel-cardpanel {
+    height: 305px;
+}
+
+.fitting-details {
+      width: 175px;
+}
