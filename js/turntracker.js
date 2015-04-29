@@ -58,6 +58,7 @@ TurnTracker.prototype = {
                 });
 
                 $('.vessel-turnTracker .move').removeClass('hidden');
+                $('.vessel-turnTracker .move .speed-slider').slider('refresh');
 
                 break;
             case 1:
